@@ -34,4 +34,3 @@ Drop me a message for a virtual or in-person coffee chat! ☕
 
 ---
 *Last updated: November 2025*  
-*Built with ❤️ using Markdown*
