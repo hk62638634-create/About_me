@@ -20,9 +20,9 @@ Actively building projects that make Hong Kong smarter and more inclusive.
 ## 📚 Learning Journey (freeCodeCamp)
 <div align="center">
 
-| Certification                        | Status       | Progress | Certificate |
-|--------------------------------------|--------------|----------|-------------|
-| Responsive Web Design                | In Progress  | 85%      | [View ↗](https://freecodecamp.org/certification/cathy_wong/responsive-web-design) |
+| Certification                        | Status       | Progress | 
+|--------------------------------------|--------------|----------|
+| Responsive Web Design                | In Progress  | 30%      | 
 
 
 </div>
