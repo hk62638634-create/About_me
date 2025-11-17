@@ -52,9 +52,9 @@ Actively building projects that make Hong Kong smarter and more inclusive.
 ## 🚀 Featured Projects
 | Project                         | Description                                | Tech Stack                  | Link |
 |----------------------------------|--------------------------------------------|-----------------------------|------|
-| 6S Audit Calculator             | Company-wide safety audit automation tool  | Python, Tkinter, JSON, docx | [View ↗](https://github.com/hk62638634-create/Project/tree/main/six_s_audit) |
-| PaxCozy AI Baggage Scanner      | Real-time prohibited item detection        | HTML/CSS/JS, AI Model       | [View ↗](https://github.com/hk62638634-create/PaxCozy) |
-| Java Swing Chat Client          | Modern bubble-style real-time chat app     | Java Swing, Socket          | [View ↗](https://github.com/hk62638634-create/Java-Chat-Client) |
+| PaxCozy AI Baggage Scanner      | Real-time prohibited item detection        | HTML/CSS/JS, AI Model       | [View ↗](https://github.com/hk62638634-create/Project/tree/main/PaxCozy) |
+| Java Swing Chat Client          | Modern bubble-style real-time chat app     | Java Swing, Socket          | [View ↗](https://github.com/hk62638634-create/Project/tree/main/Chatbox) |
+| Form GUI Application            | Interactive form handling with Java Swing UI (e.g., user input validation & dynamic forms) | Java Swing                  | [View ↗](https://github.com/hk62638634-create/Project/tree/main/Form) |
 
 
 
