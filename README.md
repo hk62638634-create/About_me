@@ -1,36 +1,68 @@
-# About_me : Cathy Wong   
-Applied Computing Student • Software Developer • Award-Winning Innovator • Software Development Intern
+# Hi there 👋, I'm Cathy Wong
 
-## Contact & Links
+Applied Computing Year 2 • Software Developer • Award-Winning Innovator • Ex-Product Development Intern @ Towngas
+
+Passionate about turning data into real-world impact through AI, automation, and clean code.  
+Actively building projects that make Hong Kong smarter and more inclusive.
+
+## 🌟 Let’s Connect!
 - 📧 hk62638634@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/cathy-wong-711731334)
-- 💻 [GitHub Profile](https://github.com/hk62638634-create)  
-- 🔗 [About Me Repo](https://github.com/hk62638634-create/About_me)
-- 📄 [Download Full CV (PDF)](Cathy_Wong_CV.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cathy-wong-711731334)  
+- 💻 [GitHub](https://github.com/hk62638634-create)  
+- 📄 [Download Full CV (PDF)](https://github.com/hk62638634-create/About_me/blob/main/Cathy_Wong_CV.pdf)
 
-## Highlights
-- **Most Innovative Award** – The Hong Kong and China Gas Company (Towngas) 
-- **Excellent Strategy Award** – SDSC Robotic Doggie Challenge,
-- **Merit Award** – Cyber Attack & Defense Elite Training 2025 (HKIRC & DPO)  
-- **PaxCozy AI Baggage Scanner** as Project Manager – Cathay Hackathon 2025
+## 🔥 Highlights & Achievements
+- 🏆 **Most Innovative Award** – The Hong Kong and China Gas Company (Towngas)  
+- 🏅 **Excellent Strategy Award** – SDSC Robotic Doggie Time Tracking Challenge 2025  
+- 🏅 **Merit Award** – Cyber Attack & Defense Elite Training 2025 (HKIRC & DPO)  
+- ✈️ **PaxCozy AI Baggage Scanner** – Project Manager, Cathay Hackathon 2025  
 
-## Professional Experience
-### The Hong Kong and China Gas Company (Towngas)  
+## 📚 Learning Journey (freeCodeCamp)
+<div align="center">
+
+| Certification                        | Status       | Progress | Certificate |
+|--------------------------------------|--------------|----------|-------------|
+| Responsive Web Design                | In Progress  | 85%      | [View ↗](https://freecodecamp.org/certification/cathy_wong/responsive-web-design) |
+
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/freeCodeCamp-300%2B%20hours-%233f51b5?logo=freecodecamp" alt="freeCodeCamp"/>
+</p>
+
+## 🛠 Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB)
+![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+## 💼 Professional Experience
 **Product Development Intern – Metering Software Team**  
-*Jun 2025 – Aug 2025 • Full-time*  
-- Analyzed 5+ datasets (>500,000 records each) using SQL to improve executive data reliability.  
-- Built Python/Pandas pipelines and a Tkinter 6S audit system with JSON-Excel-Word automation.  
-- Developed VBA tools to automate Excel reporting
-- Created interactive PowerPoint dashboards for data insights.
+*The Hong Kong and China Gas Company (Towngas)* • Jun – Aug 2025  
+- Processed 5+ datasets (500,000+ records) with SQL & Python Pandas  
+- Built a bilingual 6S Audit Calculator (Tkinter + JSON + python-docx automation)  
+- Automated Excel & PowerPoint reporting using VBA and interactive dashboards  
 
-## Professional Training
-- Baidu Autonomous Driving Technology Summit   
-- AI Workplace Efficiency Seminar (DYXnet x Zoom)  
-- Guangdian Yuntong Data Centre Technical Tour
+## 🚀 Featured Projects
+| Project                         | Description                                | Tech Stack                  | Link |
+|----------------------------------|--------------------------------------------|-----------------------------|------|
+| 6S Audit Calculator             | Company-wide safety audit automation tool  | Python, Tkinter, JSON, docx | [View ↗](https://github.com/hk62638634-create/Project/tree/main/six_s_audit) |
+| PaxCozy AI Baggage Scanner      | Real-time prohibited item detection        | HTML/CSS/JS, AI Model       | [View ↗](https://github.com/hk62638634-create/PaxCozy) |
+| Java Swing Chat Client          | Modern bubble-style real-time chat app     | Java Swing, Socket          | [View ↗](https://github.com/hk62638634-create/Java-Chat-Client) |
 
- ## Let’s Connect!
-Excited to discuss **Develop, AI, data engineering, startups, or Hong Kong’s tech scene**.  
-Drop me a message for a virtual or in-person coffee chat! ☕  
 
----
-*Last updated: November 2025*  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hk62638634-create&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hk62638634-create&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <i>Last updated: November 2025 • Always building 🚀</i>
+</p>
