@@ -22,9 +22,6 @@ Actively building projects that make Hong Kong smarter and more inclusive.
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/freeCodeCamp-300%2B%20hours-%233f51b5?logo=freecodecamp" alt="freeCodeCamp"/>
-</p>
 
 ## 🛠 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
