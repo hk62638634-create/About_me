@@ -17,12 +17,7 @@ Actively building projects that make Hong Kong smarter and more inclusive.
 - 🏅 **Merit Award** – Cyber Attack & Defense Elite Training 2025 (HKIRC & DPO)  
 - ✈️ **PaxCozy AI Baggage Scanner** – Project Manager, Cathay Hackathon 2025  
 
-## 📚 Learning Journey (freeCodeCamp)
-<div align="center">
-
-| Certification                        | Status       | Progress | 
-|--------------------------------------|--------------|----------|
-| Responsive Web Design                | In Progress  | 30%      | 
+## 📚 Learning Journey 
 
 
 </div>
