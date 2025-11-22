@@ -9,7 +9,7 @@ Actively building projects that make Hong Kong smarter and more inclusive.
 - 📧 hk62638634@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cathy-wong-711731334)  
 - 💻 [GitHub](https://github.com/hk62638634-create)  
-- 📄 [Download Full CV (PDF)](https://github.com/hk62638634-create/About_me/blob/main/Cathy_Wong_CV.pdf)
+- 📄 [Full CV (PDF)](https://github.com/hk62638634-create/About_me/blob/main/Cathy_Wong_CV.pdf)
 
 ## 🔥 Highlights & Achievements
 - 🏆 **Most Innovative Award** – The Hong Kong and China Gas Company (Towngas)  
