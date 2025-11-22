@@ -17,10 +17,17 @@ Actively building projects that make Hong Kong smarter and more inclusive.
 - 🏅 **Merit Award** – Cyber Attack & Defense Elite Training 2025 (HKIRC & DPO)  
 - ✈️ **PaxCozy AI Baggage Scanner** – Project Manager, Cathay Hackathon 2025  
 
-## 📚 Learning Journey 
+## 📚 Learning Journey
 
+| Period        | What I'm Learning                                      | Progress & Highlights                                                                 |
+|---------------|--------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 10.2025 – Now   | freeCodeCamp – Responsive Web Design Certification    |  Building projects and study with modern HTML5 & CSS3 |
+| 10.2025– Now    | LinkedIn Learning – XML Essential Training (2024)      | Completed Chapter 5 |
+| Next goals    | To be Confirm... | before 2026! 🎉 |
 
-</div>
+**Current focus:** Becoming pixel-perfect on all devices while understanding structured data with XML — because clean markup never goes out of style.
+
+<img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-27273D?style=flat&logo=freecodecamp&logoColor=0DBC72" alt="freeCodeCamp RWD"/> <img src="https://img.shields.io/badge/XML-Mastering-0066CC?style=flat&logo=xml&logoColor=white" alt="XML"/>
 
 
 ## 🛠 Tech Stack & Tools
